@@ -57,8 +57,6 @@ https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playl
 https://cdn-sp2.satlabscloud.com.br/H2_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 #EXTINF:0 type="stream" channelId="59", ID
 https://cdn-sp2.satlabscloud.com.br/ID_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
-#EXTINF:0 type="stream" channelId="1940", CLUBBING TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=738
 #EXTINF:0 type="stream" channelId="3126", TRACE BRAZUCA
 https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1724", TRACE URBAN UK
@@ -143,5 +141,3 @@ http://190.83.85.68/rede_tv/index.m3u8
 https://cdn-sp2.satlabscloud.com.br/REDE_TV_HD/720p.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" channelId="2434", BAND
 https://cdn-sp2.satlabscloud.com.br/BAND_HD/index.m3u8
-#EXTINF:0 type="stream" channelId="2436", MOTORVISION
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
