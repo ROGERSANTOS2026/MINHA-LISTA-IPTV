@@ -146,5 +146,4 @@ https://d756d3d2b9dac72449a6a6926534558a.s21-cloudfront-net.lat/embedtv/922a24d1
 #EXTINF:0 type="stream" channelId="2437", TV BRASIL
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:0 type="stream" channelId="2437", TV CULTURA
-https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
