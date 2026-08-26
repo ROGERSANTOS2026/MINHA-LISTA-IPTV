@@ -143,4 +143,6 @@ https://cdn-sp2.satlabscloud.com.br/REDE_TV_HD/720p.m3u8?token=Mw3YKkujzIi9hYQJ6
 https://cdn-sp2.satlabscloud.com.br/BAND_HD/index.m3u8
 #EXTINF:0 type="stream" channelId="2436", SIMPSONS
 https://d756d3d2b9dac72449a6a6926534558a.s21-cloudfront-net.lat/embedtv/922a24d1300e5baadaf2517335843f9f/file.txt
+#EXTINF:0 type="stream" channelId="2437", TV BRASIL
+https://tvbrasil-stream.ebc.com.br/index.m3u8
 
