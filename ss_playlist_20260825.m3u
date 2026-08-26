@@ -145,5 +145,5 @@ https://cdn-sp2.satlabscloud.com.br/BAND_HD/index.m3u8
 https://d756d3d2b9dac72449a6a6926534558a.s21-cloudfront-net.lat/embedtv/922a24d1300e5baadaf2517335843f9f/file.txt
 #EXTINF:0 type="stream" channelId="2437", TV BRASIL
 https://tvbrasil-stream.ebc.com.br/index.m3u8
-#EXTINF:0 type="stream" channelId="2437", TV BR INTER
-https://tvbrasilinternacional-stream.ebc.com.br/INTERNACIONAL-mp4a_128000=20000.m3u8
+#EXTINF:0 type="stream" channelId="2437", RAKUTEN
+https://family-rakuten-tv-pt.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6213/master.m3u8
