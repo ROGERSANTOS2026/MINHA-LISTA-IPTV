@@ -149,3 +149,5 @@ https://a4e23b2609285cfd99de6d9832f21df1.s21-cloudfront-net.lat/embedtv/771a331b
 https://cdn-5.nxplay.com.br/TCM/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2438", NICKTOONS
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2439", ANIME
+https://stmv1.srvif.com/anime/anime/playlist.m3u8
