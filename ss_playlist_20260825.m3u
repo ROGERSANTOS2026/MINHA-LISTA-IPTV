@@ -141,3 +141,5 @@ https://cdn-5.nxplay.com.br/TCM/playlist.m3u8
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:0 type="stream" channelId="2444", BOB ESPONJA
 https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8
+#EXTINF:0 type="stream" channelId="2445", AD SWIM
+https://v1.rdse.buzz/adultswim
