@@ -131,8 +131,6 @@ https://cdn-sp2.satlabscloud.com.br/TOONCAST/index.m3u8?token=ulDZjn1kAAan1kzoXm
 https://cdn-sp2.satlabscloud.com.br/BAND_NEWS_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbs4sHCetd5e40eLGtS9Os2vjZuUkK0KDrNcvclypsnw&s=10", CANAL UOL
 https://video24.mais.uol.com.br/live/6146-3.m3u8
-#EXTINF:0 type="stream" channelId="2432", GLOBO
-https://cdn-sp2.satlabscloud.com.br/GLOBO_HD/index.m3u8
 #EXTINF:0 type="stream" channelId="2562", RECORD
 https://cdn-sp2.satlabscloud.com.br/RECORD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" channelId="2435", REDETV
