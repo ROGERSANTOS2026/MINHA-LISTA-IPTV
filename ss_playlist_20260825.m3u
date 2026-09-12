@@ -147,5 +147,5 @@ https://hqf6tcxuhk.singularcdn.net.br/live/019a797e-eeb8-7eda-9518-132403ccb160/
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="2445", BAND2
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
-#EXTINF:0 type="stream" channelId="2445", BAND3
-https://hqf6tcxuhk.singularcdn.net.br/live/0194f211-4229-749f-a47e-58f819471024/s1/playlist-720p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImQ2YWJhNWIyLTY0YWMtNDlmNy1iN2Q2LTM3OWRlNGJhMzA5YiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc4OTE5OTgyNCwibmJmIjoxNzg5MTk5ODI0LCJleHAiOjE3OTE3OTE4MjQsInVyaV9zdWIiOiIvMDE5NGYyMTEtNDIyOS03NDlmLWE0N2UtNThmODE5NDcxMDI0LyIsInVpZCI6ImQ2YWJhNWIyLTY0YWMtNDlmNy1iN2Q2LTM3OWRlNGJhMzA5YiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.xo9G1h4XUUCv_7H2D-gIccCpsY1pXEFJYQpMgdh_Aac&uid=d6aba5b2-64ac-49f7-b7d6-379de4ba309b
+#EXTINF:0 type="stream" channelId="2445", REDETV
+https://stream.esemrede.com.br/live/redetves.m3u8
