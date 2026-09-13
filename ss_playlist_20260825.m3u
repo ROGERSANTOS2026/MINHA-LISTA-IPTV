@@ -97,7 +97,9 @@ https://cdn-5.nxplay.com.br/DISCOVERY_CHANNEL/playlist.m3u8
 https://cdn-5.nxplay.com.br/DISCOVERY_ID/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2445", TNT
 https://cdn-5.nxplay.com.br/TNT/playlist.m3u8
-#EXTINF:0 type="stream" channelId="2445", FOX NEWS
-https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2445", TOONCAST
 https://cdn-5.nxplay.com.br/TOONCAST/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2445", SPARKTV
+https://candlelightmedia-sparklightlove-3-br.plex.wurl.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2445", FOX NEWS
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
