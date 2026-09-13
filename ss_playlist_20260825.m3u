@@ -85,7 +85,7 @@ https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u
 https://stream.esemrede.com.br/live/redetves.m3u8
 #EXTINF:0 type="stream" channelId="2445", BAND NEWS
 https://cdn-5.nxplay.com.br/BAND_NEWS/playlist.m3u8
-#EXTINF:0 type="stream" channelId="2445", CARTON NEWTORK
+#EXTINF:0 type="stream" channelId="2446", CARTON NEWTORK
 https://cdn-5.nxplay.com.br/CARTOON_NETWORK/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2445", HISTORY
 https://cdn-5.nxplay.com.br/HISTORY/playlist.m3u8
@@ -103,5 +103,4 @@ https://cdn-5.nxplay.com.br/TOONCAST/playlist.m3u8
 https://candlelightmedia-sparklightlove-3-br.plex.wurl.tv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2445", UKIDS
 https://iptv.vivatele.com/live/viva_padrao/viva2384/105.m3u8
-#EXTINF:0 type="stream" channelId="2445", FOX NEWS
-https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+
