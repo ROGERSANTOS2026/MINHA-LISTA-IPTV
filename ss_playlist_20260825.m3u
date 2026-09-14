@@ -51,8 +51,6 @@ https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playl
 https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1724", TRACE URBAN UK
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="451", TRACE LATINA
-https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTohIeO-r2vq3ixMq8ZoqGb6qA3M2YlsjKmXRj9WlJysg&s=10", AGITO MAX
 https://stmv2.samcast.com.br/agitomax/agitomax/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPd4CrRLEE823K7JsZoySDlce35q1z9WDNlaKp1FP_ug&s=10", GEEKDOT
@@ -95,12 +93,75 @@ https://cdn-5.nxplay.com.br/HISTORY_2/playlist.m3u8
 https://cdn-5.nxplay.com.br/DISCOVERY_CHANNEL/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2445", ID
 https://cdn-5.nxplay.com.br/DISCOVERY_ID/playlist.m3u8
-#EXTINF:0 type="stream" channelId="2445", TNT
-https://cdn-5.nxplay.com.br/TNT/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2445", TOONCAST
 https://cdn-5.nxplay.com.br/TOONCAST/playlist.m3u8
-#EXTINF:0 type="stream" channelId="2445", SPARKTV
-https://candlelightmedia-sparklightlove-3-br.plex.wurl.tv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="2445", UKIDS
-https://iptv.vivatele.com/live/viva_padrao/viva2384/105.m3u8
+#EXTINF:0 type="stream" channelId="2445", ADULT SWIM
+https://cdn-sp2.satlabscloud.com.br/TRUTV_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:0 type="stream" channelId="2445", HBO
+https://cdn-sp2.satlabscloud.com.br/HBO/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:0 type="stream" channelId="2445", HBO2
+https://cdn-sp2.satlabscloud.com.br/HBO2/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:0 type="stream" channelId="2445", HBO FAMILY
+https://cdn-sp2.satlabscloud.com.br/HBO_FAMILY/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:0 type="stream" channelId="2445", HBO PLUS
+https://cdn-sp2.satlabscloud.com.br/HBO_PLUS/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:0 type="stream" channelId="2445", HBO SIGNATURE
+https://cdn-sp2.satlabscloud.com.br/HBO_SIGNATURE/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:0 type="stream" channelId="2445", HBO EXTREME
+https://cdn-sp2.satlabscloud.com.br/HBO_EXTREME_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:0 type="stream" channelId="2445", HBO MUNDI
+https://cdn-sp2.satlabscloud.com.br/HBO_MUNDI_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:0 type="stream" channelId="2445", HBO POP
+https://cdn-sp2.satlabscloud.com.br/HBO_POP_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:0 type="stream" channelId="2445", WARNER
+https://cdn-sp2.satlabscloud.com.br/WARNER_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:0 type="stream" channelId="2445", DISCOVERY KIDS
+https://cdn-sp2.satlabscloud.com.br/DISCOVERY_KIDS_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:0 type="stream" channelId="2445", ANIMAL PLANET
+https://cdn-sp2.satlabscloud.com.br/ANIMAL_PLANET_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:0 type="stream" channelId="2445", DISCOVERY SCIENE
+https://cdn-sp2.satlabscloud.com.br/DISCOVERY_SCIENCE_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:0 type="stream" channelId="2445", DISCOVERY THEATER
+https://cdn-sp2.satlabscloud.com.br/DISCOVERY_THEATER_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:0 type="stream" channelId="2445", DISCOVERY WORLD
+https://cdn-sp2.satlabscloud.com.br/DISCOVERY_WORLD_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:0 type="stream" channelId="2445", HGTV
+https://cdn-sp2.satlabscloud.com.br/HGTV_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:0 type="stream" channelId="2445", SPACE
+https://cdn-sp2.satlabscloud.com.br/SPACE_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:0 type="stream" channelId="2445", AXN
+https://cdn-sp2.satlabscloud.com.br/AXN_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:0 type="stream" channelId="2445", CINEMAX
+https://cdn-sp2.satlabscloud.com.br/CINEMAX/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:0 type="stream" channelId="2445", SONY
+https://cdn-sp2.satlabscloud.com.br/SONY_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:0 type="stream" channelId="2445", TLC
+https://cdn-sp2.satlabscloud.com.br/TLC_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:0 type="stream" channelId="2445", A&E
+https://cdn-sp2.satlabscloud.com.br/AE_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:0 type="stream" channelId="2445", TNT
+https://cdn-sp2.satlabscloud.com.br/TNT_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:0 type="stream" channelId="2445", GLOBO
+https://cdn-sp2.satlabscloud.com.br/GLOBO_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:0 type="stream" channelId="2445", REDETV
+https://cdn-sp2.satlabscloud.com.br/REDE_TV_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
