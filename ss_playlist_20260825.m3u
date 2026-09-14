@@ -149,4 +149,7 @@ https://cdn-sp2.satlabscloud.com.br/CNNB_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YK
 https://cdn-sp2.satlabscloud.com.br/BOX_KIDS_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" channelId="2445", DISCOVERY KIDS
 https://cdn-sp2.satlabscloud.com.br/DISCOVERY_KIDS_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:0 type="stream" channelId="2445", MUSIC BOX
+https://cdn-sp2.satlabscloud.com.br/MUSIC_BOX_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+
 
