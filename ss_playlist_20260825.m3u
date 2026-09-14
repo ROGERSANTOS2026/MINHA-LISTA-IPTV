@@ -90,7 +90,7 @@ https://cdn-5.nxplay.com.br/HISTORY/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2445", HISTORY 2
 https://cdn-5.nxplay.com.br/HISTORY_2/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2445", DISCOVERY
-https://cdn-5.nxplay.com.br/DISCOVERY_CHANNEL/playlist.m3u8
+https://cdn-sp2.satlabscloud.com.br/DISCOVERY_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" channelId="2445", ID
 https://cdn-5.nxplay.com.br/DISCOVERY_ID/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2445", TOONCAST
@@ -143,5 +143,4 @@ https://cdn-sp2.satlabscloud.com.br/AE_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKku
 https://cdn-sp2.satlabscloud.com.br/TNT_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" channelId="2445", GLOBO
 https://cdn-sp2.satlabscloud.com.br/GLOBO_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
-#EXTINF:0 type="stream" channelId="2445", REDETV
-https://cdn-sp2.satlabscloud.com.br/REDE_TV_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+
