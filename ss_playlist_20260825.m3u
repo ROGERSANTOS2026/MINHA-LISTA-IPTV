@@ -83,7 +83,7 @@ https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u
 https://stream.esemrede.com.br/live/redetves.m3u8
 #EXTINF:0 type="stream" channelId="0000", BAND NEWS
 https://cdn-5.nxplay.com.br/BAND_NEWS/playlist.m3u8
-#EXTINF:0 type="stream" channelId="0000", CARTON NEWTORK
+#EXTINF:0 type="stream" channelId="0000", CARTOON NETWORK
 https://cdn-sp2.satlabscloud.com.br/CARTOON_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" channelId="0000", HISTORY
 https://cdn-5.nxplay.com.br/HISTORY/playlist.m3u8
