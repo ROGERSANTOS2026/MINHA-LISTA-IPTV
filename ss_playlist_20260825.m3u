@@ -115,8 +115,6 @@ https://cdn-sp2.satlabscloud.com.br/HBO_MUNDI_HD/tracks-v1a1/mono.ts.m3u8?token=
 https://cdn-sp2.satlabscloud.com.br/HBO_POP_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" channelId="0000", WARNER
 https://cdn-sp2.satlabscloud.com.br/WARNER_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
-#EXTINF:0 type="stream" channelId="0000", DISCOVERY KIDS
-https://cdn-sp2.satlabscloud.com.br/DISCOVERY_KIDS_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" channelId="0000", ANIMAL PLANET
 https://cdn-sp2.satlabscloud.com.br/ANIMAL_PLANET_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" channelId="0000", DISCOVERY SCIENCE
@@ -152,5 +150,4 @@ https://cdn-sp2.satlabscloud.com.br/DISCOVERY_KIDS_HD/tracks-v1a1/mono.ts.m3u8?t
 #EXTINF:0 type="stream" channelId="0000", MUSIC BOX
 https://cdn-sp2.satlabscloud.com.br/MUSIC_BOX_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" channelId="0000", SIMPSONS
-https://7b5b23f4aadf9513306bcd59afb6e4c9.s21-cloudfront-net.lat/embedtv/8598b8f5864856862f144fc1c6610b4e/file.txt
-
+https://1cd3882394520876dc88d1472aa2a93f.s21-cloudfront-net.lat/embedtv/5f56851bc4a0d2e3b652a98dd4081a4b/file.txt
