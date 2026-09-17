@@ -150,4 +150,4 @@ https://cdn-sp2.satlabscloud.com.br/DISCOVERY_KIDS_HD/tracks-v1a1/mono.ts.m3u8?t
 #EXTINF:0 type="stream" channelId="0000", MUSIC BOX
 https://cdn-sp2.satlabscloud.com.br/MUSIC_BOX_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" channelId="0000", SIMPSONS
-https://1cd3882394520876dc88d1472aa2a93f.s21-cloudfront-net.lat/embedtv/5f56851bc4a0d2e3b652a98dd4081a4b/file.txt
+https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/24h_simpsons.txt
