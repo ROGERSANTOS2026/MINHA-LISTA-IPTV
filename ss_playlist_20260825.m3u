@@ -145,5 +145,7 @@ https://cdn-sp2.satlabscloud.com.br/BOX_KIDS_HD/tracks-v1a1/mono.ts.m3u8?token=M
 https://cdn-sp2.satlabscloud.com.br/DISCOVERY_KIDS_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" channelId="0000", MUSIC BOX
 https://cdn-sp2.satlabscloud.com.br/MUSIC_BOX_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:0 type="stream" channelId="0000", OTAKU SIGN TV
+https://stmv1.srvif.com/anime/anime/playlist.m3u8
 #EXTINF:0 type="stream" channelId="0000", SIMPSONS
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/24h_simpsons.txt
