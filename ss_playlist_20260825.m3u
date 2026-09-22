@@ -147,5 +147,7 @@ https://cdn-sp2.satlabscloud.com.br/MUSIC_BOX_HD/tracks-v1a1/mono.ts.m3u8?token=
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="0000", CNN EUA
 https://starlite.best/api/stream/hunt/hunt/livetv.epg/cnn.international.north.america.us.m3u8
+#EXTINF:0 type="stream" channelId="0000", NHK
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 #EXTINF:0 type="stream" channelId="0000", SIMPSONS
 https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/24h_simpsons.txt
