@@ -152,4 +152,4 @@ https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 #EXTINF:0 type="stream" channelId="0000", RAKUTEN
 https://family-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6213/master.m3u8
 #EXTINF:0 type="stream" channelId="0000", SIMPSONS
-https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/24h_simpsons.txt
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/24h_simpsons.txt
