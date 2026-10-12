@@ -165,3 +165,5 @@ https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/off.m3u8
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/bis.m3u8
 #EXTINF:0 type="stream" channelId="0000", GNT
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/gnt.m3u8
+#EXTINF:0 type="stream" channelId="0000", COMBATE
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/combate.m3u8
