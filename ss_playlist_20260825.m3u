@@ -187,5 +187,7 @@ https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/sportv.m3u8
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/sportv2.m3u8
 #EXTINF:0 type="stream" channelId="0000", SPORTV 3
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/sportv3.m3u8
+#EXTINF:0 type="stream" channelId="0000", STUDIO UNIVERSAL
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/studiouniversal.m3u8
 
 
