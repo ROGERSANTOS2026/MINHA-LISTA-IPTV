@@ -157,3 +157,5 @@ https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/globonews.m3u8
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/megapix.m3u8
 #EXTINF:0 type="stream" channelId="0000", UNIVERSAL
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/universaltv.m3u8
+#EXTINF:0 type="stream" channelId="0000", MULTISHOW
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/multishow.m3u8
