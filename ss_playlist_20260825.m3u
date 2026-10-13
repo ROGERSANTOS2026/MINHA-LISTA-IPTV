@@ -119,7 +119,7 @@ https://cdn-sp2.satlabscloud.com.br/DISCOVERY_THEATER_HD/tracks-v1a1/mono.ts.m3u
 https://cdn-sp2.satlabscloud.com.br/DISCOVERY_WORLD_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" channelId="0000", HGTV
 https://cdn-sp2.satlabscloud.com.br/HGTV_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
-#EXTINF:0 type="stream" channelId="0000", SPACE
+#EXTINF:0 type="stream" channelId="0000", TNT SPORTS
 https://cdn-sp2.satlabscloud.com.br/SPACE_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" channelId="0000", AXN
 https://cdn-sp2.satlabscloud.com.br/AXN_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
