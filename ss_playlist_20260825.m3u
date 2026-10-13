@@ -67,7 +67,7 @@ https://video24.mais.uol.com.br/live/6146-3.m3u8
 https://cdn-sp2.satlabscloud.com.br/RECORD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" channelId="0000", DREAMWORKS
 https://cdn-5.nxplay.com.br/DREAMWORKS/playlist.m3u8
-#EXTINF:0 type="stream" channelId="0000", TNT SÉRIES
+#EXTINF:0 type="stream" channelId="0000", TCM
 https://cdn-5.nxplay.com.br/TCM/playlist.m3u8
 #EXTINF:0 type="stream" channelId="0000", CAZETV
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8
