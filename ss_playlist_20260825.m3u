@@ -47,8 +47,8 @@ https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playl
 https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1724", TRACE URBAN UK
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="0000", GETV
-https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist1080p.m3u8
+#EXTINF:0 type="stream" channelId="0000", TV BRASIL
+https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPd4CrRLEE823K7JsZoySDlce35q1z9WDNlaKp1FP_ug&s=10", GEEKDOT
 https://stream.ichibansys.com:3764/hybrid/play.m3u8
 #EXTINF:0 type="stream" channelId="-1", PLAYTV
