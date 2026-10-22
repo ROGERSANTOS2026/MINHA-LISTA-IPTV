@@ -47,8 +47,6 @@ https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playl
 https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1724", TRACE URBAN UK
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="0000", TV BRASIL
-https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPd4CrRLEE823K7JsZoySDlce35q1z9WDNlaKp1FP_ug&s=10", GEEKDOT
 https://stream.ichibansys.com:3764/hybrid/play.m3u8
 #EXTINF:0 type="stream" channelId="-1", PLAYTV
@@ -169,8 +167,6 @@ https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/gnt.m3u8
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/combate.m3u8
 #EXTINF:0 type="stream" channelId="0000", TELECINE ACTION
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/telecineaction.m3u8
-#EXTINF:0 type="stream" channelId="0000", TELECINE PIPOCA
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinepipoca.m3u8
 #EXTINF:0 type="stream" channelId="0000", TELECINE PREMIUM
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinepremium.m3u8
 #EXTINF:0 type="stream" channelId="0000", TELECINE FUN
