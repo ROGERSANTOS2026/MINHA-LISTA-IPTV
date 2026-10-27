@@ -106,7 +106,7 @@ https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/76b5268b4
 #EXTINF:0 type="stream" channelId="0000", HBO POP
 https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/5f5c4401d2946d14e97021b9dcc9715b/error.txt
 #EXTINF:0 type="stream" channelId="0000", WARNER
-https://cdn-sp2.satlabscloud.com.br/WARNER_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/2aefcfc83d0acba4837c60871b34828d/error.txt warner
 #EXTINF:0 type="stream" channelId="0000", ANIMAL PLANET
 https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/d93a388c3ced293d1b7c8dd905011382/error.txt
 #EXTINF:0 type="stream" channelId="0000", DISCOVERY SCIENCE
@@ -120,15 +120,15 @@ https://cdn-sp2.satlabscloud.com.br/HGTV_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YK
 #EXTINF:0 type="stream" channelId="0000", TNT SPORTS
 https://cdn-sp2.satlabscloud.com.br/SPACE_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" channelId="0000", AXN
-https://cdn-sp2.satlabscloud.com.br/AXN_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/6780c4835e7eb4faa43477f25a71c0b3/error.txt
 #EXTINF:0 type="stream" channelId="0000", CINEMAX
-https://cdn-sp2.satlabscloud.com.br/CINEMAX/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/f01ba734de3450c65578f5d3073453d3/error.txt
 #EXTINF:0 type="stream" channelId="0000", SONY
-https://cdn-sp2.satlabscloud.com.br/SONY_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/9b97201324832e92149e2d1d6c0f47e0/error.txt
 #EXTINF:0 type="stream" channelId="0000", TLC
 https://cdn-sp2.satlabscloud.com.br/TLC_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" channelId="0000", A&E
-https://cdn-sp2.satlabscloud.com.br/AE_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/2c804a67dda806d9cf5180a8ffe39617/error.txt
 #EXTINF:0 type="stream" channelId="0000", TNT
 https://cdn-sp2.satlabscloud.com.br/TNT_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" channelId="0000", CNN
@@ -148,11 +148,11 @@ https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 #EXTINF:0 type="stream" channelId="0000", SIMPSONS
 https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/d107761dfba71ab8e670fc6ebe33a8e4/error.txt
 #EXTINF:0 type="stream" channelId="0000", AMC
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/amc.m3u8
+https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/60573b7ef0a59eb25e5bc18fd90ef448/error.txt
 #EXTINF:0 type="stream" channelId="0000", GLOBONEWS
 https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/0c93c4a973cdb4da5934d9947cc190ac/error.txt
 #EXTINF:0 type="stream" channelId="0000", MEGAPIX
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/megapix.m3u8
+https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/e89f010b9f5927ca8db31aa45759a44a/error.txt 
 #EXTINF:0 type="stream" channelId="0000", UNIVERSAL
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/universaltv.m3u8
 #EXTINF:0 type="stream" channelId="0000", MULTISHOW
@@ -186,7 +186,7 @@ https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/sportv2.m3u8
 #EXTINF:0 type="stream" channelId="0000", SPORTV 3
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/sportv3.m3u8
 #EXTINF:0 type="stream" channelId="0000", STUDIO UNIVERSAL
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/studiouniversal.m3u8
+https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/c8d89c960bc70e5fba63b4c389d8ee32/error.tx
 #EXTINF:0 type="stream" channelId="0000", TV CULTURA
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:0 type="stream" channelId="0000", FUTURA
