@@ -80,7 +80,7 @@ https://cdn-sp2.satlabscloud.com.br/CARTOON_HD/tracks-v1a1/mono.ts.m3u8?token=Mw
 #EXTINF:0 type="stream" channelId="0000", HISTORY
 https://cdn-sp2.satlabscloud.com.br/HISTORY_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" channelId="0000", HISTORY 2
-https://cdn-sp2.satlabscloud.com.br/H2_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/5aa7542323a35f1fa117447f6f9d20e1/error.txt
 #EXTINF:0 type="stream" channelId="0000", DISCOVERY
 https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfrontnet.lat/stream/ab4640d90078198aea291417c4f5be23/error.txt
 #EXTINF:0 type="stream" channelId="0000", ID
