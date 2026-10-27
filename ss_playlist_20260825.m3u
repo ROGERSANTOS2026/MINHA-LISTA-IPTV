@@ -90,21 +90,21 @@ https://cdn-5.nxplay.com.br/TOONCAST/playlist.m3u8
 #EXTINF:0 type="stream" channelId="0000", ADULT SWIM
 https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/5dfc3cf25f508a199449ea1b043ab78e/error.txt
 #EXTINF:0 type="stream" channelId="0000", HBO
-https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/115ecb1b0e7fa64fdd8ec5fbb93eb688/error.txt
+https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/174d5a8797cd4b6b1f458ab1e92c0b11/error.txt
 #EXTINF:0 type="stream" channelId="0000", HBO2
 https://cdn-sp2.satlabscloud.com.br/HBO2/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" channelId="0000", HBO FAMILY
-https://cdn-sp2.satlabscloud.com.br/HBO_FAMILY/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/4e9461bd4dddaba88760cdfbfc76ebf9/error.txt
 #EXTINF:0 type="stream" channelId="0000", HBO PLUS
-https://cdn-sp2.satlabscloud.com.br/HBO_PLUS/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/f3e47420dec338cdaa1957e61a7ef77d/error.txt
 #EXTINF:0 type="stream" channelId="0000", HBO SIGNATURE
 https://cdn-sp2.satlabscloud.com.br/HBO_SIGNATURE/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" channelId="0000", HBO EXTREME
 https://cdn-sp2.satlabscloud.com.br/HBO_EXTREME_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" channelId="0000", HBO MUNDI
-https://cdn-sp2.satlabscloud.com.br/HBO_MUNDI_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/76b5268b47682725c645671b4815bba6/error.txt
 #EXTINF:0 type="stream" channelId="0000", HBO POP
-https://cdn-sp2.satlabscloud.com.br/HBO_POP_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/5f5c4401d2946d14e97021b9dcc9715b/error.txt
 #EXTINF:0 type="stream" channelId="0000", WARNER
 https://cdn-sp2.satlabscloud.com.br/WARNER_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" channelId="0000", ANIMAL PLANET
@@ -166,7 +166,7 @@ https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/gnt.m3u8
 #EXTINF:0 type="stream" channelId="0000", COMBATE
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/combate.m3u8
 #EXTINF:0 type="stream" channelId="0000", TELECINE ACTION
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/telecineaction.m3u8
+https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/a1b372fbb47fb14e24f6a8f84ddbdd84/error.txt
 #EXTINF:0 type="stream" channelId="0000", TELECINE PREMIUM
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinepremium.m3u8
 #EXTINF:0 type="stream" channelId="0000", TELECINE FUN
@@ -175,6 +175,8 @@ https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinefun.m3u8
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinetouch.m3u8
 #EXTINF:0 type="stream" channelId="0000", TELECINE CULT
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinecult.m3u8
+#EXTINF:0 type="stream" channelId="0000", TELECINE PIPOCA
+https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/16fa0030b7f1eef8e3fa87c7ef0616f6/error.txt tc 
 #EXTINF:0 type="stream" channelId="0000", GLOOB
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/gloob.m3u8
 #EXTINF:0 type="stream" channelId="0000", SPORTV
