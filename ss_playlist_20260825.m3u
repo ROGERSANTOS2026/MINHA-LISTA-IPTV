@@ -88,9 +88,9 @@ https://cdn-sp2.satlabscloud.com.br/ID_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKku
 #EXTINF:0 type="stream" channelId="0000", TOONCAST
 https://cdn-5.nxplay.com.br/TOONCAST/playlist.m3u8
 #EXTINF:0 type="stream" channelId="0000", ADULT SWIM
-https://cdn-sp2.satlabscloud.com.br/TRUTV_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/5dfc3cf25f508a199449ea1b043ab78e/error.txt
 #EXTINF:0 type="stream" channelId="0000", HBO
-https://cdn-sp2.satlabscloud.com.br/HBO/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/115ecb1b0e7fa64fdd8ec5fbb93eb688/error.txt
 #EXTINF:0 type="stream" channelId="0000", HBO2
 https://cdn-sp2.satlabscloud.com.br/HBO2/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" channelId="0000", HBO FAMILY
@@ -146,7 +146,7 @@ https://starlite.best/api/stream/hunt/hunt/livetv.epg/cnn.international.north.am
 #EXTINF:0 type="stream" channelId="0000", NHK
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 #EXTINF:0 type="stream" channelId="0000", SIMPSONS
-https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/24h_simpsons.txt
+https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/d107761dfba71ab8e670fc6ebe33a8e4/error.txt
 #EXTINF:0 type="stream" channelId="0000", AMC
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/amc.m3u8
 #EXTINF:0 type="stream" channelId="0000", GLOBONEWS
