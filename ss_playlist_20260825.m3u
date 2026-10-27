@@ -76,7 +76,7 @@ https://cdn-sp2.satlabscloud.com.br/BAND_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YK
 #EXTINF:0 type="stream" channelId="0000", BAND NEWS
 https://origin-07.nxplay.com.br/BAND_NEWS/index.m3u8
 #EXTINF:0 type="stream" channelId="0000", CARTOON NETWORK
-https://cdn-sp2.satlabscloud.com.br/CARTOON_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/f38fef65915db9d181eb9852c6339fd6/error.txt
 #EXTINF:0 type="stream" channelId="0000", HISTORY
 https://cdn-sp2.satlabscloud.com.br/HISTORY_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" channelId="0000", HISTORY 2
@@ -150,13 +150,13 @@ https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/24h_s
 #EXTINF:0 type="stream" channelId="0000", AMC
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/amc.m3u8
 #EXTINF:0 type="stream" channelId="0000", GLOBONEWS
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/globonews.m3u8
+https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/0c93c4a973cdb4da5934d9947cc190ac/error.txt
 #EXTINF:0 type="stream" channelId="0000", MEGAPIX
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/megapix.m3u8
 #EXTINF:0 type="stream" channelId="0000", UNIVERSAL
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/universaltv.m3u8
 #EXTINF:0 type="stream" channelId="0000", MULTISHOW
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/multishow.m3u8
+https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/6fe8adcb2e5a8d5c76fe03d31e14ef7d/error.txt
 #EXTINF:0 type="stream" channelId="0000", OFF
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/off.m3u8
 #EXTINF:0 type="stream" channelId="0000", BIS
