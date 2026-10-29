@@ -88,7 +88,7 @@ https://cdn-5.nxplay.com.br/DISCOVERY_ID/playlist.m3u8
 #EXTINF:0 type="stream" channelId="0000", TOONCAST
 https://cdn-5.nxplay.com.br/TOONCAST/playlist.m3u8
 #EXTINF:0 type="stream" channelId="0000", ADULT SWIM
-https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/5dfc3cf25f508a199449ea1b043ab78e/error.txt
+https://8f246fdcdd11e03e7750ed4f8e050161.s25-cloudfront-net.lat/stream/aa73998b568b2a20ef131f1ab635da00/error.txt
 #EXTINF:0 type="stream" channelId="0000", HBO
 https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/174d5a8797cd4b6b1f458ab1e92c0b11/error.txt
 #EXTINF:0 type="stream" channelId="0000", HBO2
