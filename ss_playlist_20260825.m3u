@@ -101,6 +101,8 @@ https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:0 type="stream" channelId="0000", CANAL GOV
 https://canalgov-stream.ebc.com.br/index.m3u8
+#EXTINF:0 type="stream" channelId="0000", CANAL EDUCAÇÃO
+https://canaleducacao-stream.ebc.com.br/index.m3u8
 #EXTINF:0 type="stream" channelId="0000", JOVEM PAN
 https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist720-p.m3u8
 #EXTINF:0 type="stream" channelId="0000", REDETV
