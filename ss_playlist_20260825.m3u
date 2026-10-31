@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="2433", SBT
 https://aovivo.maissbt.com/indexMobile.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="data:image/png;base64,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", SBT NEWS
+#EXTINF:0 type="stream" channelId="0000", SBT NEWS
 https://sbtnews.maissbt.com/3.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="data:image/png;base64,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", RECORD NEWS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7359
@@ -47,9 +47,9 @@ https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playl
 https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1724", TRACE URBAN UK
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPd4CrRLEE823K7JsZoySDlce35q1z9WDNlaKp1FP_ug&s=10", GEEKDOT
+#EXTINF:0 type="stream" channelId="0000", GEEKDOT
 https://stream.ichibansys.com:3764/hybrid/play.m3u8
-#EXTINF:0 type="stream" channelId="-1", PLAYTV
+#EXTINF:0 type="stream" channelId="0000", PLAYTV
 https://isaocorp.cloudecast.com/playtv/index.fmp4.m3u8
 #EXTINF:0 type="stream" channelId="1944", ABC
 https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8
@@ -59,10 +59,8 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/strea
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:0 type="stream" channelId="363", ALJAZEERA
 https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbs4sHCetd5e40eLGtS9Os2vjZuUkK0KDrNcvclypsnw&s=10", CANAL UOL
+#EXTINF:0 type="stream" channelId="0000", CANAL UOL
 https://video24.mais.uol.com.br/live/6146-3.m3u8
-#EXTINF:0 type="stream" channelId="0000", RECORD
-https://cdn-sp2.satlabscloud.com.br/RECORD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" channelId="0000", DREAMWORKS
 https://cdn-5.nxplay.com.br/DREAMWORKS/playlist.m3u8
 #EXTINF:0 type="stream" channelId="0000", TCM
@@ -71,8 +69,6 @@ https://cdn-5.nxplay.com.br/TCM/playlist.m3u8
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:0 type="stream" channelId="0000", BOB ESPONJA
 https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8
-#EXTINF:0 type="stream" channelId="0000", BAND
-https://cdn-sp2.satlabscloud.com.br/BAND_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" channelId="0000", BAND NEWS
 https://cdn-5.nxplay.com.br/BAND_NEWS/playlist.m3u8
 #EXTINF:0 type="stream" channelId="0000", CARTOON NETWORK
@@ -87,106 +83,12 @@ https://cdn-5.nxplay.com.br/DISCOVERY_CHANNEL/playlist.m3u8
 https://cdn-5.nxplay.com.br/DISCOVERY_ID/playlist.m3u8
 #EXTINF:0 type="stream" channelId="0000", TOONCAST
 https://cdn-5.nxplay.com.br/TOONCAST/playlist.m3u8
-#EXTINF:0 type="stream" channelId="0000", ADULT SWIM
-https://8f246fdcdd11e03e7750ed4f8e050161.s25-cloudfront-net.lat/stream/aa73998b568b2a20ef131f1ab635da00/error.txt
-#EXTINF:0 type="stream" channelId="0000", HBO
-https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/174d5a8797cd4b6b1f458ab1e92c0b11/error.txt
-#EXTINF:0 type="stream" channelId="0000", HBO2
-https://cdn-sp2.satlabscloud.com.br/HBO2/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
-#EXTINF:0 type="stream" channelId="0000", HBO FAMILY
-https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/4e9461bd4dddaba88760cdfbfc76ebf9/error.txt
-#EXTINF:0 type="stream" channelId="0000", HBO PLUS
-https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/f3e47420dec338cdaa1957e61a7ef77d/error.txt
-#EXTINF:0 type="stream" channelId="0000", HBO SIGNATURE
-https://cdn-sp2.satlabscloud.com.br/HBO_SIGNATURE/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
-#EXTINF:0 type="stream" channelId="0000", HBO EXTREME
-https://cdn-sp2.satlabscloud.com.br/HBO_EXTREME_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
-#EXTINF:0 type="stream" channelId="0000", HBO MUNDI
-https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/76b5268b47682725c645671b4815bba6/error.txt
-#EXTINF:0 type="stream" channelId="0000", HBO POP
-https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/5f5c4401d2946d14e97021b9dcc9715b/error.txt
-#EXTINF:0 type="stream" channelId="0000", WARNER
-https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/2aefcfc83d0acba4837c60871b34828d/error.txt warner
-#EXTINF:0 type="stream" channelId="0000", ANIMAL PLANET
-https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/d93a388c3ced293d1b7c8dd905011382/error.txt
-#EXTINF:0 type="stream" channelId="0000", DISCOVERY SCIENCE
-https://cdn-sp2.satlabscloud.com.br/DISCOVERY_SCIENCE_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
-#EXTINF:0 type="stream" channelId="0000", DISCOVERY THEATER
-https://cdn-sp2.satlabscloud.com.br/DISCOVERY_THEATER_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
-#EXTINF:0 type="stream" channelId="0000", DISCOVERY WORLD
-https://cdn-sp2.satlabscloud.com.br/DISCOVERY_WORLD_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
-#EXTINF:0 type="stream" channelId="0000", HGTV
-https://cdn-sp2.satlabscloud.com.br/HGTV_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
-#EXTINF:0 type="stream" channelId="0000", TNT SPORTS
-https://cdn-sp2.satlabscloud.com.br/SPACE_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
-#EXTINF:0 type="stream" channelId="0000", AXN
-https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/6780c4835e7eb4faa43477f25a71c0b3/error.txt
-#EXTINF:0 type="stream" channelId="0000", CINEMAX
-https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/f01ba734de3450c65578f5d3073453d3/error.txt
-#EXTINF:0 type="stream" channelId="0000", SONY
-https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/9b97201324832e92149e2d1d6c0f47e0/error.txt
-#EXTINF:0 type="stream" channelId="0000", TLC
-https://cdn-sp2.satlabscloud.com.br/TLC_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
-#EXTINF:0 type="stream" channelId="0000", A&E
-https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/2c804a67dda806d9cf5180a8ffe39617/error.txt
-#EXTINF:0 type="stream" channelId="0000", TNT
-https://cdn-5.nxplay.com.br/TNT/playlist.m3u8
-#EXTINF:0 type="stream" channelId="0000", CNN
-https://cdn-sp2.satlabscloud.com.br/CNNB_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
-#EXTINF:0 type="stream" channelId="0000", BOX KIDS
-https://cdn-sp2.satlabscloud.com.br/BOX_KIDS_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
-#EXTINF:0 type="stream" channelId="0000", DISCOVERY KIDS
-https://cdn-sp2.satlabscloud.com.br/DISCOVERY_KIDS_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
-#EXTINF:0 type="stream" channelId="0000", MUSIC BOX
-https://cdn-sp2.satlabscloud.com.br/MUSIC_BOX_HD/tracks-v1a1/mono.ts.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" channelId="0000", FOX NEWS
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="0000", CNN EUA
 https://starlite.best/api/stream/hunt/hunt/livetv.epg/cnn.international.north.america.us.m3u8
 #EXTINF:0 type="stream" channelId="0000", NHK
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
-#EXTINF:0 type="stream" channelId="0000", SIMPSONS
-https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/d107761dfba71ab8e670fc6ebe33a8e4/error.txt
-#EXTINF:0 type="stream" channelId="0000", AMC
-https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/60573b7ef0a59eb25e5bc18fd90ef448/error.txt
-#EXTINF:0 type="stream" channelId="0000", GLOBONEWS
-https://8f246fdcdd11e03e7750ed4f8e050161.s25-cloudfront-net.lat/stream/cd1c9100fb76c3c68b309bde048dbb9a/error.txt
-#EXTINF:0 type="stream" channelId="0000", MEGAPIX
-https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/e89f010b9f5927ca8db31aa45759a44a/error.txt 
-#EXTINF:0 type="stream" channelId="0000", UNIVERSAL
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/universaltv.m3u8
-#EXTINF:0 type="stream" channelId="0000", MULTISHOW
-https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/6fe8adcb2e5a8d5c76fe03d31e14ef7d/error.txt
-#EXTINF:0 type="stream" channelId="0000", OFF
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/off.m3u8
-#EXTINF:0 type="stream" channelId="0000", BIS
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/bis.m3u8
-#EXTINF:0 type="stream" channelId="0000", GNT
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/gnt.m3u8
-#EXTINF:0 type="stream" channelId="0000", COMBATE
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/combate.m3u8
-#EXTINF:0 type="stream" channelId="0000", TELECINE ACTION
-https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/a1b372fbb47fb14e24f6a8f84ddbdd84/error.txt
-#EXTINF:0 type="stream" channelId="0000", TELECINE PREMIUM
-https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/46f8d8c9bd0e9af736a105f94ee7cd80/error.txt  
-#EXTINF:0 type="stream" channelId="0000", TELECINE FUN
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinefun.m3u8
-#EXTINF:0 type="stream" channelId="0000", TELECINE TOUCH
-https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/a160589e4dd7112199680149bb3beba0/error.txt
-#EXTINF:0 type="stream" channelId="0000", TELECINE CULT
-https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/dff3a64b37576380118a249ec23dd65f/error.txt
-#EXTINF:0 type="stream" channelId="0000", TELECINE PIPOCA
-https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/16fa0030b7f1eef8e3fa87c7ef0616f6/error.txt tc 
-#EXTINF:0 type="stream" channelId="0000", GLOOB
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/gloob.m3u8
-#EXTINF:0 type="stream" channelId="0000", SPORTV
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/sportv.m3u8
-#EXTINF:0 type="stream" channelId="0000", SPORTV 2
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/sportv2.m3u8
-#EXTINF:0 type="stream" channelId="0000", SPORTV 3
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/sportv3.m3u8
-#EXTINF:0 type="stream" channelId="0000", STUDIO UNIVERSAL
-https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/c8d89c960bc70e5fba63b4c389d8ee32/error.tx
 #EXTINF:0 type="stream" channelId="0000", TV CULTURA
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:0 type="stream" channelId="0000", FUTURA
@@ -195,6 +97,5 @@ http://170.83.49.66:8083/FUTURAHD/index.m3u8
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #EXTINF:0 type="stream" channelId="0000", EURO NEWS
 https://598c4b93.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleF9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/playlist.m3u8
-
 #EXTINF:0 type="stream" channelId="0000", SKY NEWS
 https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/stream04/streamPlaylist.m3u8
