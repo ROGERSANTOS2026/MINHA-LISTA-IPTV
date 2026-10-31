@@ -99,6 +99,8 @@ https://598c4b93.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleF
 https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/stream04/streamPlaylist.m3u8
 #EXTINF:0 type="stream" channelId="0000", TV BRASIL
 https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:0 type="stream" channelId="0000", CANAL GOV
+https://canalgov-stream.ebc.com.br/index.m3u8
 #EXTINF:0 type="stream" channelId="0000", JOVEM PAN
 https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist720-p.m3u8
 #EXTINF:0 type="stream" channelId="0000", REDETV
