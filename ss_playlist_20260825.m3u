@@ -23,7 +23,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/3000.m3u8
 #EXTINF:0 type="stream" channelId="2007", SONY ONE EMOÇÕES
 https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/2000.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8_X5T_BGN2HDI-EP1bfPHlNpOQNYnYiSs-FrMH0Mi7Q&s=10", MOVIESPHERE
+#EXTINF:0 type="stream" channelId="0000", MOVIESPHERE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLcEi9lWLEdiivIDNzQw08dQYg0SE0t8v0NDTULshj6A&s", MOVIESPHERE USA
 https://samsunguk-moviesphereuk-samsung-uk-s7xaa.amagi.tv/playlist/samsunguk-moviesphereuk-samsung-uk/playlist.m3u8
