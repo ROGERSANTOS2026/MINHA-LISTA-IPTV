@@ -101,6 +101,8 @@ https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:0 type="stream" channelId="0000", REDETV
 https://5ad482a77183d.streamlock.net/administrativoredetvto.com.br/administrativoredetvto.com.br/playlist.m3u8
+#EXTINF:0 type="stream" channelId="0000", BAND
+https://hqf6tcxuhk.singularcdn.net.br/live/019a797e-eeb8-7eda-9518-132403ccb160/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjU3ZjNlNjc2LWIxYWEtNDhlNC04MjZjLWUxZDEzZjFkZDgyZCIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5MzQyMzU2MCwibmJmIjoxNzkzNDIzNTYwLCJleHAiOjE3OTYwMTU1NjAsInVyaV9zdWIiOiIvMDE5YTc5N2UtZWViOC03ZWRhLTk1MTgtMTMyNDAzY2NiMTYwLyIsInVpZCI6IjU3ZjNlNjc2LWIxYWEtNDhlNC04MjZjLWUxZDEzZjFkZDgyZCIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.wRncqpjh8G-KfwMM1iRU1F8wywVu117UfFS2mdBGAm0&uid=57f3e676-b1aa-48e4-826c-e1d13f1dd82d
 #EXTINF:0 type="stream" channelId="0000", ADULT SWIM
 https://70658e728e6e4d41997cf0cbe94ee41e.s25-cloudfront-net.lat/stream/03734de118112e23f4b2428983041034/error.txt
 #EXTINF:0 type="stream" channelId="0000", SIMPSONS
