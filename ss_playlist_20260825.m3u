@@ -105,8 +105,8 @@ https://canalgov-stream.ebc.com.br/index.m3u8
 https://canaleducacao-stream.ebc.com.br/index.m3u8
 #EXTINF:0 type="stream" channelId="0000", JOVEM PAN
 https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist720-p.m3u8
-#EXTINF:0 type="stream" channelId="0000", REDETV
-https://5ad482a77183d.streamlock.net/administrativoredetvto.com.br/administrativoredetvto.com.br/playlist.m3u8
+#EXTINF:0 type="stream" channelId="0000", CNN BR
+https://cdn-aovivo-atualplay.nxtv.com.br/CNN_BRASIL/index.m3u8
 #EXTINF:0 type="stream" channelId="0000", URBAN KIDS
 https://cdn-aovivo-atualplay.nxtv.com.br/URBAN_KIDS/index.m3u8
 #EXTINF:0 type="stream" channelId="0000", SIMPSONS
