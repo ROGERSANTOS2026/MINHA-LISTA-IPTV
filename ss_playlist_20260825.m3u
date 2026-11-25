@@ -111,3 +111,6 @@ https://cdn-sp2.satlabscloud.com.br/REDE_TV_HD/index.m3u8?token=ulDZjn1kAAan1kzo
 https://cdn-sp2.satlabscloud.com.br/TRUTV_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 #EXTINF:0 type="stream" channelId="0000", URBAN OTAKU
 https://cdn-aovivo-atualplay.nxtv.com.br/URBAN_OTAKU/index.m3u8
+#EXTINF:0 type="stream" channelId="0000", SBT KIDS
+https://stream.maissbt.com/api/fast-channel/playlists/54/live-video.m3u8?level=2
+
