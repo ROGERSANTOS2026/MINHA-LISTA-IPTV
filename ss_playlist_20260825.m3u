@@ -106,12 +106,12 @@ https://canaleducacao-stream.ebc.com.br/index.m3u8
 #EXTINF:0 type="stream" channelId="0000", JOVEM PAN
 https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist720-p.m3u8
 #EXTINF:0 type="stream" channelId="0000", CNN BR
-https://cdn-aovivo-atualplay.nxtv.com.br/CNN_BRASIL/index.m3u8
+https://cdn-aovivo-atualplay.nxtv.com.br/CNN_BRASIL/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 #EXTINF:0 type="stream" channelId="0000", URBAN KIDS
 https://cdn-aovivo-atualplay.nxtv.com.br/URBAN_KIDS/index.m3u8
 #EXTINF:0 type="stream" channelId="0000", REDETV
-https://cdn-sp2.satlabscloud.com.br/REDE_TV_HD/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/REDE_TV_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 #EXTINF:0 type="stream" channelId="0000", ADULT SWIM
-https://cdn-sp2.satlabscloud.com.br/TRUTV_HD/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/TRUTV_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 #EXTINF:0 type="stream" channelId="0000", URBAN OTAKU
 https://cdn-aovivo-atualplay.nxtv.com.br/URBAN_OTAKU/index.m3u8
