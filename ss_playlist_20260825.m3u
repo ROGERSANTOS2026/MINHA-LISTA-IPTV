@@ -81,6 +81,8 @@ https://cdn-5.nxplay.com.br/DISCOVERY_CHANNEL/playlist.m3u8
 https://cdn-5.nxplay.com.br/DISCOVERY_SCIENCE/playlist.m3u8
 #EXTINF:0 type="stream" channelId="0000", DISCOVERY H&H
 https://cdn-5.nxplay.com.br/DISCOVERY_HH/playlist.m3u8
+#EXTINF:0 type="stream" channelId="0000", DISCOVERY THEATER
+https://cdn-5.nxplay.com.br/DISCOVERY_THEATER/playlist.m3u8
 #EXTINF:0 type="stream" channelId="0000", ID
 https://cdn-5.nxplay.com.br/DISCOVERY_ID/playlist.m3u8
 #EXTINF:0 type="stream" channelId="0000", TOONCAST
