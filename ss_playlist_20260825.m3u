@@ -87,9 +87,9 @@ https://cdn-5.nxplay.com.br/DISCOVERY_THEATER/playlist.m3u8
 https://cdn-5.nxplay.com.br/DISCOVERY_WORLD/playlist.m3u8
 #EXTINF:0 type="stream" channelId="0000", DISCOVERY KIDS
 https://cdn-5.nxplay.com.br/DISCOVERY_KIDS/playlist.m3u8
-#EXTINF:0 type="stream" channelId="0000", ANIMAL PLANET
-https://cdn-5.nxplay.com.br/DISCOVERY_ID/playlist.m3u8
 #EXTINF:0 type="stream" channelId="0000", ID
+https://cdn-5.nxplay.com.br/DISCOVERY_ID/playlist.m3u8
+#EXTINF:0 type="stream" channelId="0000", ANIMAL PLANET
 https://cdn-5.nxplay.com.br/ANIMAL_PLANET/playlist.m3u8
 #EXTINF:0 type="stream" channelId="0000", TOONCAST
 https://cdn-5.nxplay.com.br/TOONCAST/playlist.m3u8
