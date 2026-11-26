@@ -49,6 +49,8 @@ https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tr
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="0000", GEEKDOT
 https://stream.ichibansys.com:3764/hybrid/play.m3u8
+#EXTINF:0 type="stream" channelId="0000", ADRENALINA PURA
+https://amg00740-sofa-amg00740c7-tcl-us-7126.playouts.now.amagi.tv/1080p-pt-cc/index.m3u8
 #EXTINF:0 type="stream" channelId="0000", PLAYTV
 https://isaocorp.cloudecast.com/playtv/index.fmp4.m3u8
 #EXTINF:0 type="stream" channelId="352", DW ENGLISH
